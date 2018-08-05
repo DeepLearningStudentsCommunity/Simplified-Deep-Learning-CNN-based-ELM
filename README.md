@@ -1,7 +1,7 @@
 # Simplified-Deep-Learning-CNN-based-ELM
-by: Imam Cholissodin, Sutrisno
-Faculty of Computer Science (FILKOM), Universitas Brawijaya (UB), Malang, Indonesia
-{*imamcs, trisno}@ub.ac.id
+by: Imam Cholissodin, Sutrisno,
+from Faculty of Computer Science (FILKOM), Universitas Brawijaya (UB), Malang, Indonesia.
+email: {*imamcs, trisno}@ub.ac.id
 
 For running demo our project, please run file "CompareDLCNNELMvsELM.m"
 
